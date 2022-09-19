@@ -23,5 +23,6 @@ public class HelloWorld {
 
         System.out.println("Hello World");
         System.out.println(gcd(12, 16));
+        System.out.println("Hello test");
     }
 }
